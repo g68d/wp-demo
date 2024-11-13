@@ -1,4 +1,8 @@
-# Title v2
+---
+Title: The new title
+---
+## Title v2
 
-## Subtitle 1
+### Subtitle 2
 just an example
+this is the changed page 
