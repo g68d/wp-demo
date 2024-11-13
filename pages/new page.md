@@ -1,5 +1,5 @@
 ---
-Title: The new title
+title: The new title
 ---
 ## Title v2
 
